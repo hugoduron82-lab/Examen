@@ -52,16 +52,15 @@ class Program
             // Llamada al metodo para validar las notas
             matricula.ValidarNotas(nota1, nota2, nota3);
 
-            // Almacenar notas en la lista
             matricula.NotasParciales.Add(nota1);
             matricula.NotasParciales.Add(nota2);
             matricula.NotasParciales.Add(nota3);
 
-            // Calcular nota final de dos maneras diferentes
+            // Calculo de nota final de las dos maneras diferentes
             double notaFinalMetodo1 = matricula.CalcularNotaFinal(); // Método de la interfaz
             double notaFinalMetodo2 = matricula.CalcularNotaFinal(nota1, nota2, nota3); // Método sobrecargado
 
-            // Mostrar resultados
+            // Resultados
             Console.WriteLine();
             Console.WriteLine("=== RESULTADOS ===");
             Console.WriteLine($"Nota final (método interfaz): {notaFinalMetodo1}% - {matricula.ObtenerMensajeNota(notaFinalMetodo1)}");

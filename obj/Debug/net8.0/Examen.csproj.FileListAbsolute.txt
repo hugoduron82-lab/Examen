@@ -12,3 +12,4 @@
 /Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.pdb
 /Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.genruntimeconfig.cache
 /Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/ref/Examen.dll
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.sourcelink.json

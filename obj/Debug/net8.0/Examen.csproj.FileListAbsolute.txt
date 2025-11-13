@@ -1,0 +1,14 @@
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.AssemblyInfoInputs.cache
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.AssemblyInfo.cs
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.csproj.CoreCompileInputs.cache
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/bin/Debug/net8.0/Examen
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/bin/Debug/net8.0/Examen.deps.json
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/bin/Debug/net8.0/Examen.runtimeconfig.json
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/bin/Debug/net8.0/Examen.dll
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/bin/Debug/net8.0/Examen.pdb
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.dll
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/refint/Examen.dll
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.pdb
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/Examen.genruntimeconfig.cache
+/Users/hugosalvadorduronmolina/Desktop/C#/Examen/Examen/obj/Debug/net8.0/ref/Examen.dll
